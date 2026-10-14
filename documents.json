@@ -1,0 +1,282 @@
+[
+  {
+    "id": "ap2668",
+    "title": "Acórdão da ação penal sobre a tentativa de golpe",
+    "issuer": "STF",
+    "kind": "Acórdão",
+    "process": "AP 2668",
+    "date": "2025-10-22",
+    "recordIds": [
+      "J01"
+    ],
+    "originUrl": "https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-content/uploads/wpallimport/uploads/2025/10/22075642/downloadPeca.pdf",
+    "path": "documents/ap2668.pdf",
+    "pages": 1991,
+    "bytes": 21477061,
+    "sha256": "557a35d855f8918b353660dd08d5c559bc99e9e26230f36364f13821ef443bf5",
+    "summary": "A decisão colegiada reúne os fundamentos da condenação, debates, votos e dosimetria. É a peça central para conferir o que o tribunal efetivamente decidiu.",
+    "limits": "O arquivo registra o julgamento de setembro de 2025; não é certidão do andamento atual nem substitui decisões posteriores.",
+    "guide": [
+      {
+        "page": 2,
+        "label": "Ementa: enquadramento e conclusão do tribunal"
+      },
+      {
+        "page": 27,
+        "label": "Discussão processual registrada no relatório"
+      },
+      {
+        "page": 1959,
+        "label": "Voto de Luiz Fux sobre danos morais coletivos"
+      }
+    ],
+    "dateLabel": "Publicação/disponibilização",
+    "local": true
+  },
+  {
+    "id": "denuncia-golpe",
+    "title": "Denúncia da PGR: núcleo principal",
+    "issuer": "PGR · cópia disponibilizada pela EBC",
+    "kind": "Denúncia",
+    "process": "Pet 12100",
+    "date": "2025-02-18",
+    "recordIds": [
+      "J01"
+    ],
+    "originUrl": "https://agenciabrasil.ebc.com.br/sites/default/files/atoms/files/finalpet12100-denancia-versaofinal_nucleo11.pdf",
+    "path": "documents/denuncia-golpe.pdf",
+    "pages": 272,
+    "bytes": 10640881,
+    "sha256": "f29b03124cdb843cddc212ff7d53e2ada9add7bdaba33629f8a4efb47828242d",
+    "summary": "A PGR apresenta a acusação, descreve a articulação atribuída aos denunciados e formula os pedidos. Compare a narrativa acusatória com o acórdão posterior.",
+    "limits": "Uma denúncia expõe a tese do Ministério Público. Sua existência, isoladamente, não demonstra culpa.",
+    "guide": [
+      {
+        "page": 8,
+        "label": "Contextualização da acusação"
+      },
+      {
+        "page": 9,
+        "label": "Descrição dos atos atribuídos ao grupo"
+      },
+      {
+        "page": 272,
+        "label": "Pedidos finais e rol de testemunhas"
+      }
+    ],
+    "dateLabel": "Data do documento",
+    "local": true
+  },
+  {
+    "id": "relatorio-pf-golpe",
+    "title": "Relatório final da Polícia Federal",
+    "issuer": "PF · disponibilizado pelo STF",
+    "kind": "Relatório policial",
+    "process": "Inquérito sobre tentativa de golpe",
+    "date": "2024-11-26",
+    "recordIds": [
+      "J01"
+    ],
+    "originUrl": "https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-content/uploads/wpallimport/uploads/2024/11/26160436/Relatorio-Final-PF-Site-2024-1.pdf",
+    "path": "https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-content/uploads/wpallimport/uploads/2024/11/26160436/Relatorio-Final-PF-Site-2024-1.pdf",
+    "pages": 884,
+    "bytes": 51932341,
+    "sha256": "7d79458980bea43bacb57f0649131adeab89864a2fb1718c6e305ec781afaf06",
+    "summary": "A PF organiza os elementos da investigação, comunicações, reuniões e condutas que atribui aos investigados. O sumário permite localizar os diferentes eixos da apuração.",
+    "limits": "Relatório policial e indiciamento não são sentença. As conclusões precisam ser lidas junto das manifestações da defesa e do julgamento.",
+    "guide": [
+      {
+        "page": 2,
+        "label": "Sumário: sistema eleitoral, Abin e reunião ministerial"
+      },
+      {
+        "page": 3,
+        "label": "Sumário: planejamento e ações operacionais"
+      },
+      {
+        "page": 4,
+        "label": "Sumário: indiciamentos e conclusão"
+      }
+    ],
+    "dateLabel": "Publicação/disponibilização",
+    "local": false,
+    "projectPath": "originais/relatorio-pf-golpe.pdf"
+  },
+  {
+    "id": "camara-17042016",
+    "title": "Notas taquigráficas da sessão de 17 de abril de 2016",
+    "issuer": "Câmara dos Deputados",
+    "kind": "Registro parlamentar",
+    "process": "Sessão extraordinária de 17/04/2016",
+    "date": "2016-04-17",
+    "recordIds": [
+      "D06"
+    ],
+    "originUrl": "https://www.camara.leg.br/internet/plenario/notas/extraord/2016/4/EV1704161400.pdf",
+    "path": "documents/camara-17042016.pdf",
+    "pages": 331,
+    "bytes": 1395058,
+    "sha256": "db35efc6b4bfa7f1bbc099dc1f994d94ecda107903fa72e40fa633bb2831423b",
+    "summary": "A transcrição oficial permite conferir a homenagem feita por Jair Bolsonaro a Ustra durante a votação do impeachment, no contexto da sessão parlamentar.",
+    "limits": "O registro comprova o teor transcrito da manifestação. Não é uma sentença sobre suas consequências jurídicas.",
+    "guide": [
+      {
+        "page": 232,
+        "label": "Intervenção de Bolsonaro e referência a Ustra"
+      }
+    ],
+    "dateLabel": "Data do documento",
+    "local": true
+  },
+  {
+    "id": "cpi-pandemia",
+    "title": "Relatório final da CPI da Pandemia",
+    "issuer": "Senado Federal",
+    "kind": "Relatório parlamentar",
+    "process": "CPI da Pandemia",
+    "date": "2021-10-26",
+    "dateLabel": "Apreciação pela comissão",
+    "recordIds": [
+      "P01",
+      "J07"
+    ],
+    "originUrl": "https://legis.senado.leg.br/atividade/comissoes/comissao/2441/reuniao/10342/item/77628",
+    "path": "https://legis.senado.leg.br/sdleg-getter/documento/download/72c805d3-888b-4228-8682-260175471243",
+    "local": false,
+    "summary": "A página oficial registra a aprovação do relatório com sugestões da discussão e oferece o texto apreciado. Reúne a apuração parlamentar sobre a gestão da pandemia.",
+    "limits": "O portal exige verificação de conexão. PDF sem cópia local e sem contagem de páginas ou hash conferidos nesta edição. Recomendações da CPI não são condenações judiciais.",
+    "guide": []
+  },
+  {
+    "title": "Rachadinhas: denúncia do MPRJ de 2020",
+    "issuer": "MPRJ · cópia publicada pela Veja",
+    "kind": "Denúncia",
+    "process": "PICs 2018.00452470 e 2018.00121526",
+    "date": "2020-10-19",
+    "recordIds": [
+      "F01"
+    ],
+    "summary": "Peça acusatória com descrição das condutas atribuídas a Flávio, Queiroz e outros denunciados. Permite examinar o valor alegado e o recorte da acusação.",
+    "limits": "A denúncia foi rejeitada em 2022 após invalidação de provas. Esta cópia histórica não comprova culpa e não é um processo em andamento. A fonte hospedeira é jornalística.",
+    "guide": [
+      {
+        "page": 3,
+        "label": "Sumário da acusação"
+      },
+      {
+        "page": 13,
+        "label": "Papel atribuído a Flávio e valor alegado"
+      },
+      {
+        "page": 60,
+        "label": "Nota 109: limites relativos à loja de chocolates"
+      }
+    ],
+    "id": "flavio-denuncia",
+    "pages": 290,
+    "bytes": 13728621,
+    "sha256": "f8c32a961c3ccc2a5248b1a23f52bcd5a074f92d07398ae327c6c312f57a0ed8",
+    "originUrl": "https://veja.abril.com.br/wp-content/uploads/2020/11/Denuncia-Flavio-Bolsonaro-completa.pdf",
+    "path": "documents/flavio-denuncia.pdf",
+    "local": true,
+    "dateLabel": "Data do documento"
+  },
+  {
+    "title": "Abin: relatório da PF — páginas impressas 751 a 1000",
+    "issuer": "Polícia Federal · cópia publicada pelo Poder360",
+    "kind": "Relatório policial",
+    "process": "Pet 11108 · volume parcial do relatório",
+    "date": "2025-06-19",
+    "dateLabel": "Publicação da cópia pelo veículo",
+    "recordIds": [
+      "C01"
+    ],
+    "summary": "Volume parcial que inclui a descrição dos núcleos e a individualização de condutas atribuídas a Carlos e a Ramagem. Página 1 deste PDF corresponde à página impressa 751.",
+    "limits": "Não é o relatório completo nem uma condenação. Leia os desfechos de julho de 2026 na ficha: arquivamento para Jair e Ramagem e remessa da apuração de Carlos à primeira instância. Cópia de fonte jornalística.",
+    "guide": [
+      {
+        "page": 182,
+        "label": "Critérios da PF para individualizar condutas · impressa 932"
+      },
+      {
+        "page": 183,
+        "label": "Núcleos político e de comando · impressa 933"
+      },
+      {
+        "page": 191,
+        "label": "Início das imputações a Carlos · impressa 941"
+      },
+      {
+        "page": 194,
+        "label": "Versão da assessora sobre mensagem citada · impressa 944"
+      }
+    ],
+    "id": "abin-relatorio-parte4",
+    "pages": 250,
+    "bytes": 15685499,
+    "sha256": "1cf310846199bf5c6644bbc5f7bb5cf4218820157d82cd693eff282efe683594",
+    "originUrl": "https://static.poder360.com.br/2025/06/RELATORIO-FINAL-PF-ABIN-PARALELA-4.pdf",
+    "path": "documents/abin-relatorio-parte4.pdf",
+    "local": true
+  },
+  {
+    "title": "AP 2668: decisão sobre agravo de Bolsonaro",
+    "issuer": "STF",
+    "kind": "Decisão judicial",
+    "process": "AP 2668 · decisão de 13/01/2026",
+    "date": "2026-01-13",
+    "recordIds": [
+      "J01"
+    ],
+    "summary": "Registra o trânsito em julgado declarado em 25/11/2025, o referendo da Turma e o início da execução. O relator julga prejudicado o agravo apresentado em janeiro.",
+    "limits": "A decisão trata desse recurso e da situação processual então registrada. Não informa, por si, alterações posteriores no regime ou no local de cumprimento da pena.",
+    "guide": [
+      {
+        "page": 2,
+        "label": "Pena, publicação do acórdão e trânsito em julgado"
+      },
+      {
+        "page": 3,
+        "label": "Execução penal e resultado do agravo"
+      }
+    ],
+    "id": "ap2668-agravo-2026",
+    "pages": 3,
+    "bytes": 134414,
+    "sha256": "2245bca7f4901edda4a815588fc56b078cf31ecb76e601be61dfd60937cb03ae",
+    "originUrl": "https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-content/uploads/wpallimport/uploads/2026/01/13151420/Decisao.Agravo.Bolsonaro.AP2668-862d1862-22a8-44fb-8fbc-45100384f54c-1.pdf",
+    "path": "documents/ap2668-agravo-2026.pdf",
+    "local": true,
+    "dateLabel": "Data do documento"
+  },
+  {
+    "title": "Abin: despacho que levantou o sigilo",
+    "issuer": "STF",
+    "kind": "Decisão judicial",
+    "process": "Pet 11108",
+    "date": "2025-06-18",
+    "recordIds": [
+      "C01"
+    ],
+    "summary": "O STF torna públicos os autos principais e registra o envio do relatório final da PF em 12/06/2025. Mantém protegidos os anexos bancários e fiscais.",
+    "limits": "É uma decisão sobre publicidade e tramitação, não uma declaração de culpa. O material que permaneceu sigiloso não está reproduzido no acervo.",
+    "guide": [
+      {
+        "page": 1,
+        "label": "Origem da apuração e entrega do relatório"
+      },
+      {
+        "page": 2,
+        "label": "Levantamento de sigilo e remessa à PGR"
+      }
+    ],
+    "id": "abin-despacho",
+    "pages": 2,
+    "bytes": 119471,
+    "sha256": "dfbfcf0a8153754b14e20d86ae8aebf6483c26204b89ac514153f52b7ebac377",
+    "originUrl": "https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-content/uploads/wpallimport/uploads/2025/06/18164610/Despacho-Levanta-Sigilo-ABIN.pdf",
+    "path": "documents/abin-despacho.pdf",
+    "local": true,
+    "dateLabel": "Data do documento"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "sources": [
+    {"id": "stf", "name": "Supremo Tribunal Federal", "kind": "primary", "authority": "tribunal", "feed": "https://noticias.stf.jus.br/feed/"},
+    {"id": "tse", "name": "Tribunal Superior Eleitoral", "kind": "primary", "authority": "tribunal", "feed": "https://www.tse.jus.br/comunicacao/noticias/rss"},
+    {"id": "camara", "name": "Câmara dos Deputados", "kind": "primary", "authority": "legislativo", "feed": "https://www.camara.leg.br/noticias/rss/"},
+    {"id": "senado", "name": "Senado Federal", "kind": "primary", "authority": "legislativo", "feed": "https://www12.senado.leg.br/noticias/feed"},
+    {"id": "cgu", "name": "Controladoria-Geral da União", "kind": "primary", "authority": "controle", "feed": "https://www.gov.br/cgu/pt-br/assuntos/noticias/RSS"},
+    {"id": "agencia-brasil-politica", "name": "Agência Brasil · Política", "kind": "journalism", "authority": "pública", "feed": "https://agenciabrasil.ebc.com.br/rss/politica/feed.xml"}
+  ],
+  "watch_terms": [
+    "Bolsonaro", "Flávio Bolsonaro", "Carlos Bolsonaro", "Eduardo Bolsonaro", "Michelle Bolsonaro", "Lula", "Luiz Inácio Lula", "PT", "STF", "TSE", "José Dirceu", "José Genoino", "Delúbio Soares", "Alexandre Ramagem", "Valdemar Costa Neto"
+  ]
+}

@@ -1,0 +1,35 @@
+/* Correções comuns de contraste e responsividade. Carregada após os temas. */
+:root{--muted:#70515a;--text:#30171c;--mint:#a90f27;--blue:#a90f27;--amber:#965019;--pink:#922342}
+body .featured-card p,body .case-card .summary,body .ally-content p,body .ally-content small,body .document-card p,body .document-card summary,body .critical-analysis small,body .year b,body .process-number,body .dossier-status,body .dossier-status span,body .event-filter,body .amount-card>span{color:#63454e!important}
+body .card-top span,body .card-top,body .record-link,body .ally-content a{color:#92162b!important}
+body .dossier-main a,body .dossier-header a,body .dossier-main #share-status,body .dossier-main summary{color:#92162b!important}
+body:has(.wrap) .wrap :is(.record,.section,.card,.context,.party,.case,.note) :is(p,li,small,label){color:#63454e!important}
+body :is(input,select,textarea),body .event-filter select{background:#fff!important;color:#30171c!important;border-color:#c79ba6!important;color-scheme:light}
+body input::placeholder,body textarea::placeholder{color:#70515a!important;opacity:1}
+body :is(.source-btn,.clear,.news-search,.primary-link),body .share-row button,body .external-references-links a,body .doc-types button[aria-pressed=true]{background:#a90f27!important;color:#fff!important;border-color:#a90f27!important}
+body .dossier-main a.primary-link,body:has(.wrap) .wrap a.primary-link,body:has(.wrap) .wrap a.news-search{color:#fff!important;background:#a90f27!important}
+body :is(.source-btn,.clear,.news-search,.primary-link) :is(span,strong,small),body .share-row button :is(span,strong,small),body .external-references-links a :is(span,strong,small){color:#fff!important}
+body :is(.source-btn,.clear,.news-search,.primary-link):hover,body .share-row button:hover,body .external-references-links a:hover,body .doc-types button[aria-pressed=true]:hover{background:#7e1020!important;color:#fff!important}
+body .dialog-top button{background:#fff!important;color:#92162b!important;border:1px solid #c79ba6!important}
+body .dossier-nav a:hover{background:#a90f27!important;color:#fff!important}
+body :is(.panel,.case-card,.ally-profile,.featured-card,.document-card,.evidence-card,.amount-card,.record,.party,.chart-card,.lp-records article){min-width:0}
+body :is(.summary,.featured-card p,.ally-content p,.record-link,.evidence-refs a,.document-card a,.source,.lp-records a){overflow-wrap:anywhere}
+body :is(button,a,input,select,summary):focus-visible{outline:3px solid #742037;outline-offset:3px}
+body .sidebar :is(button,a):focus-visible,body .site-counter summary:focus-visible{outline-color:#fff}
+body dialog{max-width:calc(100vw - 24px);max-height:85dvh;overflow:auto}
+body dialog .dialog-top{gap:12px}body dialog .dialog-top button{flex-shrink:0}
+body svg text{fill:#63454e}
+body .site-counter details[open]{z-index:1001}
+body .site-counter details p{color:#332328!important}
+@media(min-width:851px){body .sidebar{overflow-y:auto;overscroll-behavior:contain}}
+@media(max-width:850px){body .external-references-links{flex-shrink:1}body .external-references-links a{max-width:100%;white-space:normal}body .dossier-header{flex-wrap:wrap}body .share-row{gap:8px}body .share-row button{max-width:100%;white-space:normal}}
+@media(max-width:600px){body .wrap{max-width:100%;padding-left:16px;padding-right:16px}body .filters,body .toolbar,body .lp-controls{flex-wrap:wrap}body .filters>*,body .toolbar>*{min-width:0;max-width:100%}body .metrics{grid-template-columns:repeat(2,minmax(0,1fr))}body .topbar{gap:12px;flex-wrap:wrap}body .dossier-main{padding-left:18px;padding-right:18px}body .dossier-main h1,body #page-title{overflow-wrap:break-word}body .site-counter{gap:8px 16px}body .site-counter details{position:static}body .site-counter details p{left:12px;right:12px;top:100%;width:auto}body .timeline{overflow-x:auto}body .sidebar nav{max-width:100vw}body .sidebar .nav{flex-shrink:0}}
+@media print{body .site-counter{display:none!important}body :is(.source-btn,.clear,.news-search,.primary-link),body .share-row button{background:#fff!important;color:#000!important}body .dossier-main a.primary-link{color:#000!important}}
+@media(max-width:850px){body .sidebar nav{margin-inline:0!important;padding-inline:0!important;width:100%;max-width:100%}}
+
+body .year,body .year span{color:#63454e!important}
+
+body .library-heading p,body .doc-search,body #document-count{color:#63454e!important}
+
+@media(min-width:851px){body .site-counter~.sidebar{top:var(--counter-height,56px)!important;height:calc(100dvh - var(--counter-height,56px))!important}}
+@media(max-width:850px){body .site-counter~.sidebar{margin-top:0!important;top:0!important;height:auto!important}}

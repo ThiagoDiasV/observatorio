@@ -1,0 +1,11 @@
+[Unit]
+Description=Agenda a verificação diária do Observatório
+
+[Timer]
+OnCalendar=*-*-* 06:35:00 UTC
+RandomizedDelaySec=10m
+Persistent=true
+Unit=observatorio-health.service
+
+[Install]
+WantedBy=timers.target

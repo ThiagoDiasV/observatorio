@@ -1,0 +1,880 @@
+[
+  {
+    "id": "D01",
+    "kind": "speech",
+    "title": "“Gripezinha” e histórico de atleta",
+    "people": [
+      "Jair Bolsonaro"
+    ],
+    "theme": "Saúde e pandemia",
+    "year": 2020,
+    "eventDate": "2020-03-24",
+    "date": "2020-03-25",
+    "dateBasis": "Data da fala",
+    "quote": "gripezinha ou resfriadinho",
+    "medium": "Pronunciamento em rádio e televisão",
+    "summary": "No pronunciamento de 24 de março, Bolsonaro minimizou o risco que a covid-19 representaria para ele, invocando seu histórico de atleta, e criticou restrições de circulação. O trecho referia-se ao seu caso particular; a reportagem contextualiza o restante do discurso.",
+    "response": "A íntegra comentada permite conferir o contexto. A avaliação pessoal do orador não é apresentada aqui como informação médica.",
+    "status": "Registro jornalístico",
+    "group": "Registro na mídia",
+    "outcome": "A ficha documenta a declaração e os desdobramentos descritos nas fontes. Não atribui, por si só, responsabilidade criminal.",
+    "affiliation": "",
+    "sources": [
+      {
+        "label": "Folha · íntegra comentada, 25/03/2020",
+        "url": "https://www1.folha.uol.com.br/poder/2020/03/bolsonaro-contrariou-orgaos-de-saude-e-distorceu-cenario-sobre-coronavirus-veja-discurso-comentado.shtml"
+      }
+    ],
+    "slug": "d01-gripezinha-e-historico-de-atleta"
+  },
+  {
+    "id": "D02",
+    "kind": "speech",
+    "title": "Resposta sobre mortes: “Não sou coveiro”",
+    "people": [
+      "Jair Bolsonaro"
+    ],
+    "theme": "Saúde e pandemia",
+    "year": 2020,
+    "eventDate": "2020-04-20",
+    "date": "2020-04-20",
+    "dateBasis": "Data da fala",
+    "quote": "Não sou coveiro",
+    "medium": "Entrevista a jornalistas no Alvorada",
+    "summary": "Questionado sobre mortes por coronavírus, Bolsonaro respondeu que não era coveiro. A Reuters registra que o total diário citado inicialmente pelo Ministério da Saúde foi corrigido depois da entrevista.",
+    "response": "A correção do número de óbitos não altera a existência da declaração. O acervo evita repetir o número inicial como se fosse definitivo.",
+    "status": "Registro jornalístico",
+    "group": "Registro na mídia",
+    "outcome": "A ficha documenta a declaração e os desdobramentos descritos nas fontes. Não atribui, por si só, responsabilidade criminal.",
+    "affiliation": "",
+    "sources": [
+      {
+        "label": "Reuters/UOL · fala e correção do dado, 20/04/2020",
+        "url": "https://economia.uol.com.br/noticias/reuters/2020/04/20/nao-sou-coveiro-diz-bolsonaro-sobre-mortes-por-coronavirus.htm"
+      }
+    ],
+    "slug": "d02-resposta-sobre-mortes-nao-sou-coveiro"
+  },
+  {
+    "id": "D03",
+    "kind": "speech",
+    "title": "“E daí?” diante do aumento das mortes",
+    "people": [
+      "Jair Bolsonaro"
+    ],
+    "theme": "Saúde e pandemia",
+    "year": 2020,
+    "eventDate": "2020-04-28",
+    "date": "2020-04-29",
+    "dateBasis": "Data da fala",
+    "quote": "E daí?",
+    "medium": "Entrevista a jornalistas",
+    "summary": "A resposta a uma pergunta sobre o aumento das mortes por covid-19 provocou debate público sobre a postura presidencial. A CNN reuniu avaliações divergentes sobre a declaração.",
+    "response": "A ficha registra a expressão e o debate sobre ela; não confunde a repercussão da fala com uma decisão judicial.",
+    "status": "Registro jornalístico",
+    "group": "Registro na mídia",
+    "outcome": "A ficha documenta a declaração e os desdobramentos descritos nas fontes. Não atribui, por si só, responsabilidade criminal.",
+    "affiliation": "",
+    "sources": [
+      {
+        "label": "CNN · contexto e debate, 29/04/2020",
+        "url": "https://www.cnnbrasil.com.br/nacional/o-grande-debate-e-dai-a-declaracao-de-bolsonaro-sobre-as-mortes-da-covid-19/"
+      }
+    ],
+    "slug": "d03-e-dai-diante-do-aumento-das-mortes"
+  },
+  {
+    "id": "D04",
+    "kind": "speech",
+    "title": "Vacina da Pfizer e referência a jacaré",
+    "people": [
+      "Jair Bolsonaro"
+    ],
+    "theme": "Saúde e pandemia",
+    "year": 2020,
+    "eventDate": "2020-12-17",
+    "date": "2020-12-17",
+    "dateBasis": "Data da fala",
+    "quote": "Se você virar um jacaré, é problema de você.",
+    "medium": "Discurso em Porto Seguro (BA)",
+    "summary": "Criticando cláusulas de responsabilidade da Pfizer, Bolsonaro usou a imagem de uma transformação em jacaré ao falar de possíveis efeitos da vacinação.",
+    "response": "A frase é documentada como retórica do orador, não como risco real de vacina. A reportagem apresenta o contexto da recusa pessoal à vacinação e informações sobre reinfecção.",
+    "status": "Registro jornalístico",
+    "group": "Registro na mídia",
+    "outcome": "A ficha documenta a declaração e os desdobramentos descritos nas fontes. Não atribui, por si só, responsabilidade criminal.",
+    "affiliation": "",
+    "sources": [
+      {
+        "label": "UOL · discurso em Porto Seguro, 17/12/2020",
+        "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/12/17/bolsonaro-nao-tomarei-vacina-por-ter-anticorpo-pais-teve-2-reinfeccoes.htm"
+      }
+    ],
+    "slug": "d04-vacina-da-pfizer-e-referencia-a-jacare"
+  },
+  {
+    "id": "D05",
+    "kind": "speech",
+    "title": "Ofensa a Maria do Rosário",
+    "people": [
+      "Jair Bolsonaro"
+    ],
+    "theme": "Direitos e discriminação",
+    "year": 2014,
+    "eventDate": "2014-12",
+    "date": "2017-08-15",
+    "dateBasis": "Mês dos episódios",
+    "quote": "",
+    "medium": "Discurso parlamentar e entrevista",
+    "summary": "Bolsonaro dirigiu a Maria do Rosário uma ofensa que associava estupro e características pessoais da deputada. A ficha resume o teor sem reproduzir o insulto como descrição da vítima.",
+    "response": "O STJ manteve a obrigação de indenizar por danos morais e a retratação determinada pelo TJDF. Trata-se de responsabilidade civil; esta ficha não afirma condenação criminal.",
+    "status": "Decisão cível",
+    "group": "Desdobramento judicial",
+    "outcome": "A ficha documenta a declaração e os desdobramentos descritos nas fontes. Não atribui, por si só, responsabilidade criminal.",
+    "affiliation": "",
+    "sources": [
+      {
+        "label": "STJ · indenização e retratação, 15/08/2017",
+        "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias-antigas/2017/2017-08-15_18-37_Jair-Bolsonaro-tera-de-indenizar-deputada-Maria-do-Rosario-por-danos-morais.aspx"
+      }
+    ],
+    "slug": "d05-ofensa-a-maria-do-rosario"
+  },
+  {
+    "id": "D06",
+    "kind": "speech",
+    "title": "Homenagem a Ustra no voto do impeachment",
+    "people": [
+      "Jair Bolsonaro"
+    ],
+    "theme": "Democracia e eleições",
+    "year": 2016,
+    "eventDate": "2016-04-17",
+    "date": "2016-06-28",
+    "dateBasis": "Data da fala",
+    "quote": "Pela memória do coronel Carlos Alberto Brilhante Ustra",
+    "medium": "Votação transmitida pela TV Câmara",
+    "summary": "Ao votar pela abertura do impeachment de Dilma Rousseff, Bolsonaro homenageou Ustra. PV e OAB-RJ apresentaram representações, e o Conselho de Ética instaurou processo.",
+    "response": "As fontes abaixo documentam o voto e a instauração. A abertura de processo não é seu julgamento final, que não foi reunido nesta ficha.",
+    "status": "Registro institucional",
+    "group": "Registro na mídia",
+    "outcome": "A ficha documenta a declaração e os desdobramentos descritos nas fontes. Não atribui, por si só, responsabilidade criminal.",
+    "affiliation": "",
+    "sources": [
+      {
+        "label": "Câmara · voto e representações, 26/04/2016",
+        "url": "https://www.camara.leg.br/noticias/486449-pv-e-oab-rj-protocolam-denuncias-na-camara-contra-deputado-bolsonaro"
+      },
+      {
+        "label": "Câmara · instauração, 28/06/2016",
+        "url": "https://www2.camara.leg.br/a-camara/estruturaadm/eticaedecoro/noticias/instaurado-o-processo-em-desfavor-do-deputado-jair-bolsonaro"
+      }
+    ],
+    "slug": "d06-homenagem-a-ustra-no-voto-do-impeachment"
+  },
+  {
+    "id": "D07",
+    "kind": "speech",
+    "title": "Declarações sobre quilombolas na Hebraica",
+    "people": [
+      "Jair Bolsonaro"
+    ],
+    "theme": "Direitos e discriminação",
+    "year": 2017,
+    "eventDate": "2017-04",
+    "date": "2018-09-11",
+    "dateBasis": "Mês da fala",
+    "quote": "",
+    "medium": "Palestra no Clube Hebraica, Rio de Janeiro",
+    "summary": "Bolsonaro se referiu a quilombolas usando medida de peso de animais. A PGR apresentou denúncia por declarações dirigidas a grupos sociais durante a palestra.",
+    "response": "Em setembro de 2018, a Primeira Turma do STF rejeitou a denúncia por três votos a dois. A decisão e a divergência estão na fonte oficial; a fala não é apresentada como condenação por racismo.",
+    "status": "Denúncia rejeitada",
+    "group": "Desdobramento judicial",
+    "outcome": "A ficha documenta a declaração e os desdobramentos descritos nas fontes. Não atribui, por si só, responsabilidade criminal.",
+    "affiliation": "",
+    "sources": [
+      {
+        "label": "STF · rejeição da denúncia, 11/09/2018",
+        "url": "https://noticias.stf.jus.br/postsnoticias/rejeitada-denuncia-contra-o-deputado-jair-bolsonaro-por-incitacao-ao-racismo/"
+      },
+      {
+        "label": "Folha · teor e julgamento, 11/09/2018",
+        "url": "https://www1.folha.uol.com.br/poder/2018/09/stf-rejeita-denuncia-contra-bolsonaro-sob-acusacao-de-racismo.shtml"
+      }
+    ],
+    "slug": "d07-declaracoes-sobre-quilombolas-na-hebraica"
+  },
+  {
+    "id": "D08",
+    "kind": "speech",
+    "title": "“Pintou um clima” e jovens venezuelanas",
+    "people": [
+      "Jair Bolsonaro"
+    ],
+    "theme": "Direitos e discriminação",
+    "year": 2022,
+    "eventDate": "2022-10-14",
+    "date": "2022-10-18",
+    "dateBasis": "Data da fala",
+    "quote": "pintou um clima",
+    "medium": "Entrevista ao podcast Paparazzo Rubro-Negro",
+    "summary": "A expressão foi usada ao narrar visita a jovens venezuelanas. O relato e sua insinuação sobre a situação das jovens foram contestados; a Reuters registra a contestação de uma das mulheres visitadas.",
+    "response": "Bolsonaro alegou distorção de sua fala. Em 18 de outubro, gravou mensagem pedindo desculpas pelo que chamou de mal-entendido. O acervo não reproduz a insinuação como fato sobre as jovens.",
+    "status": "Pedido de desculpas",
+    "group": "Retratação / explicação",
+    "outcome": "A ficha documenta a declaração e os desdobramentos descritos nas fontes. Não atribui, por si só, responsabilidade criminal.",
+    "affiliation": "",
+    "sources": [
+      {
+        "label": "Reuters/UOL · declaração e contestação, 16/10/2022",
+        "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2022/10/16/fala-sobre-venezuelanas-viraliza-e-bolsonaro-acusa-pt-de-distorcao.amp.htm"
+      },
+      {
+        "label": "CNN · mensagem de desculpas, 18/10/2022",
+        "url": "https://www.cnnbrasil.com.br/politica/bolsonaro-grava-mensagem-a-venezuelanas-e-nega-prostituicao-em-casa-de-imigrantes/"
+      }
+    ],
+    "slug": "d08-pintou-um-clima-e-jovens-venezuelanas"
+  },
+  {
+    "id": "D09",
+    "kind": "speech",
+    "title": "Referência a um “novo AI-5”",
+    "people": [
+      "Eduardo Bolsonaro"
+    ],
+    "theme": "Democracia e eleições",
+    "year": 2019,
+    "eventDate": "2019-10-31",
+    "date": "2019-11-01",
+    "dateBasis": "Data da fala",
+    "quote": "novo AI-5",
+    "medium": "Entrevista divulgada na internet",
+    "summary": "Eduardo aventou um novo AI-5 como possível resposta caso a esquerda se radicalizasse. A fala gerou reação de parlamentares e ampla cobertura jornalística.",
+    "response": "Ele pediu desculpas, disse que fora mal interpretado e negou a possibilidade de retorno do ato. A ficha inclui o vídeo da TV Senado sobre a retratação.",
+    "status": "Pedido de desculpas",
+    "group": "Retratação / explicação",
+    "outcome": "A ficha documenta a declaração e os desdobramentos descritos nas fontes. Não atribui, por si só, responsabilidade criminal.",
+    "affiliation": "",
+    "sources": [
+      {
+        "label": "UOL · fala e resposta, 31/10/2019",
+        "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2019/10/31/eduardo-se-desculpa-diz-que-fala-foi-deturpada-e-que-nao-havera-novo-ai-5.amp.htm"
+      },
+      {
+        "label": "TV Senado · vídeo, 01/11/2019",
+        "url": "https://www.youtube.com/watch?v=I2l3AJ98EzE"
+      }
+    ],
+    "slug": "d09-referencia-a-um-novo-ai-5"
+  },
+  {
+    "id": "D10",
+    "kind": "speech",
+    "title": "“Um soldado e um cabo” para fechar o STF",
+    "people": [
+      "Eduardo Bolsonaro"
+    ],
+    "theme": "Democracia e eleições",
+    "year": 2018,
+    "eventDate": "2018-07",
+    "date": "2018-10-23",
+    "dateBasis": "Mês da gravação",
+    "quote": "basta um soldado e um cabo",
+    "medium": "Vídeo de palestra, repercutido em outubro",
+    "summary": "Em resposta a uma hipótese sobre impedimento da candidatura do pai, Eduardo afirmou que uma pequena força militar bastaria para fechar o Supremo. A gravação de julho repercutiu em outubro de 2018.",
+    "response": "Jair Bolsonaro criticou a declaração do filho. Ministros do STF reagiram em defesa da instituição. A data do vídeo e a data de repercussão são mantidas distintas.",
+    "status": "Registro jornalístico",
+    "group": "Registro na mídia",
+    "outcome": "A ficha documenta a declaração e os desdobramentos descritos nas fontes. Não atribui, por si só, responsabilidade criminal.",
+    "affiliation": "",
+    "sources": [
+      {
+        "label": "Estadão/ANJ · gravação e contexto, 22/10/2018",
+        "url": "https://www.anj.org.br/deputado-federal-eduardo-bolsonaro-diz-que-bastaria-mandar-um-soldado-e-um-cabo-ministro-do-stf-cobra-respeito-pelas-instituicoes/"
+      },
+      {
+        "label": "UOL · reação de Jair, 22/10/2018",
+        "url": "https://noticias.uol.com.br/politica/eleicoes/2018/noticias/2018/10/22/bolsonaro-filho-declaracoes-fechar-stf.htm"
+      },
+      {
+        "label": "Estadão/UOL · reação no STF, 23/10/2018",
+        "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2018/10/23/extremamente-improprio-e-inadequado-diz-gilmar-sobre-fala-de-eduardo-bolsonaro.htm"
+      }
+    ],
+    "slug": "d10-um-soldado-e-um-cabo-para-fechar-o-stf"
+  },
+  {
+    "id": "D11",
+    "kind": "speech",
+    "title": "Transformações pelas “vias democráticas”",
+    "people": [
+      "Carlos Bolsonaro"
+    ],
+    "theme": "Democracia e eleições",
+    "year": 2019,
+    "eventDate": "2019-09-09",
+    "date": "2019-09-10",
+    "dateBasis": "Data da fala",
+    "quote": "Por vias democráticas",
+    "medium": "Publicação no Twitter, hoje X",
+    "summary": "Carlos escreveu que as mudanças desejadas no país não ocorreriam na velocidade esperada pelas vias democráticas. A publicação suscitou críticas e questionamentos sobre autoritarismo.",
+    "response": "No dia seguinte, afirmou que não defendia ditadura e que estava respondendo a cobranças por mudanças urgentes.",
+    "status": "Explicação posterior",
+    "group": "Retratação / explicação",
+    "outcome": "A ficha documenta a declaração e os desdobramentos descritos nas fontes. Não atribui, por si só, responsabilidade criminal.",
+    "affiliation": "",
+    "sources": [
+      {
+        "label": "Reuters/UOL · publicação e explicação, 10/09/2019",
+        "url": "https://economia.uol.com.br/noticias/reuters/2019/09/10/carlos-bolsonaro-afirma-que-foi-mal-interpretado-e-nao-defendeu-ditadura.amp.htm"
+      },
+      {
+        "label": "Estadão · vídeo da cobertura, 10/09/2019",
+        "url": "https://www.youtube.com/watch?v=w02DNqO5oNo"
+      }
+    ],
+    "slug": "d11-transformacoes-pelas-vias-democraticas"
+  },
+  {
+    "id": "D12",
+    "kind": "speech",
+    "title": "Confronto verbal com Renan na CPI",
+    "people": [
+      "Flávio Bolsonaro"
+    ],
+    "theme": "Debate público e imprensa",
+    "year": 2021,
+    "eventDate": "2021-05-12",
+    "date": "2021-05-13",
+    "dateBasis": "Data da fala",
+    "quote": "vagabundo",
+    "medium": "Sessão da CPI da Covid transmitida ao vivo",
+    "summary": "Flávio insultou Renan Calheiros durante uma discussão na CPI da Covid. A sessão foi interrompida após o confronto verbal.",
+    "response": "A fala ocorreu numa disputa sobre a condução da comissão. No dia seguinte, Jair repetiu o insulto. Isso documenta o episódio, sem validar a ofensa como caracterização de Renan.",
+    "status": "Registro jornalístico",
+    "group": "Registro na mídia",
+    "outcome": "A ficha documenta a declaração e os desdobramentos descritos nas fontes. Não atribui, por si só, responsabilidade criminal.",
+    "affiliation": "",
+    "sources": [
+      {
+        "label": "Vídeo da sessão · cobertura, 12/05/2021",
+        "url": "https://www.youtube.com/watch?v=8xyLhAcWj1w"
+      },
+      {
+        "label": "Folha · contexto e repercussão, 13/05/2021",
+        "url": "https://www1.folha.uol.com.br/amp/poder/2021/05/bolsonaro-repete-o-filho-chama-renan-de-vagabundo-e-ve-crime-na-cpi-da-covid.shtml"
+      }
+    ],
+    "slug": "d12-confronto-verbal-com-renan-na-cpi"
+  },
+  {
+    "id": "D13",
+    "kind": "speech",
+    "title": "Planalto “consagrado a demônios”",
+    "people": [
+      "Michelle Bolsonaro"
+    ],
+    "theme": "Religião e política",
+    "year": 2022,
+    "eventDate": "2022-08-07",
+    "date": "2022-08-08",
+    "dateBasis": "Data da fala",
+    "quote": "consagrado a demônios",
+    "medium": "Discurso na Igreja Batista da Lagoinha",
+    "summary": "Em evento religioso em Belo Horizonte, Michelle contrapôs uma suposta consagração anterior do Planalto a demônios à consagração a Jesus durante o governo do marido.",
+    "response": "A declaração é retórica religiosa e política. Não é tratada como fato verificável sobre crenças ou práticas de antigos ocupantes do Palácio.",
+    "status": "Registro jornalístico",
+    "group": "Registro na mídia",
+    "outcome": "A ficha documenta a declaração e os desdobramentos descritos nas fontes. Não atribui, por si só, responsabilidade criminal.",
+    "affiliation": "",
+    "sources": [
+      {
+        "label": "Veja · discurso e contexto eleitoral, agosto/2022",
+        "url": "https://veja.abril.com.br/politica/michelle-diz-que-planalto-era-consagrado-a-demonios-antes-de-bolsonaro/"
+      },
+      {
+        "label": "Vídeo da cobertura · agosto/2022",
+        "url": "https://www.youtube.com/watch?v=n8cPKZxM4bc"
+      }
+    ],
+    "slug": "d13-planalto-consagrado-a-demonios"
+  },
+  {
+    "id": "D14",
+    "kind": "speech",
+    "title": "Pandemia descrita como “história da mídia”",
+    "people": [
+      "Jair Renan Bolsonaro"
+    ],
+    "theme": "Saúde e pandemia",
+    "year": 2020,
+    "eventDate": "2020-04-20",
+    "date": "2020-04-30",
+    "dateBasis": "Data da fala segundo o corpo da reportagem",
+    "quote": "Isso é história da mídia",
+    "medium": "Transmissão na Twitch",
+    "summary": "Em transmissão ao vivo, Jair Renan fez piadas sobre a pandemia, minimizou a doença e atribuiu à imprensa uma narrativa para manter as pessoas em casa.",
+    "response": "Jair Renan afirmou que fazia uma brincadeira e que o trecho fora retirado de contexto. A CNN noticia a divulgação em 30/04 e situa a fala em 20/04 no corpo do texto; a legenda da própria reportagem usa 30/04. A divergência de datas da fonte é preservada aqui.",
+    "status": "Explicação posterior",
+    "group": "Retratação / explicação",
+    "outcome": "A ficha documenta a declaração e os desdobramentos descritos nas fontes. Não atribui, por si só, responsabilidade criminal.",
+    "affiliation": "",
+    "sources": [
+      {
+        "label": "CNN · transmissão de Jair Renan, abril/2020",
+        "url": "https://www.cnnbrasil.com.br/nacional/filho-de-bolsonaro-jair-renan-ironiza-coronavirus-em-video/"
+      }
+    ],
+    "slug": "d14-pandemia-descrita-como-historia-da-midia"
+  },
+  {
+    "id": "D15",
+    "kind": "speech",
+    "title": "Cores de roupa e papéis de gênero",
+    "people": [
+      "Damares Alves"
+    ],
+    "theme": "Direitos e discriminação",
+    "year": 2019,
+    "eventDate": "2019-01-03",
+    "date": "2019-01-04",
+    "dateBasis": "Data de divulgação",
+    "quote": "menino veste azul e menina veste rosa",
+    "medium": "Vídeo divulgado após a posse ministerial",
+    "summary": "O vídeo de Damares celebrando uma nova era e associando cores a meninos e meninas gerou críticas e reações públicas sobre estereótipos de gênero.",
+    "response": "Damares explicou que usou uma metáfora contra o que chama de ideologia de gênero e disse que crianças poderiam vestir as cores que quisessem.",
+    "status": "Explicação posterior",
+    "group": "Retratação / explicação",
+    "outcome": "A ficha documenta a declaração e os desdobramentos descritos nas fontes. Não atribui, por si só, responsabilidade criminal.",
+    "affiliation": "Ministra da Mulher, da Família e dos Direitos Humanos no governo Bolsonaro.",
+    "sources": [
+      {
+        "label": "Exame · vídeo e repercussão, 03/01/2019",
+        "url": "https://exame.com/brasil/menino-veste-azul-e-menina-veste-rosa-diz-damares-em-video/"
+      },
+      {
+        "label": "Folha · explicação, 04/01/2019",
+        "url": "https://www1.folha.uol.com.br/poder/2019/01/damares-diz-que-debate-sobre-ideologia-de-genero-deveria-ficar-na-academia.shtml"
+      }
+    ],
+    "slug": "d15-cores-de-roupa-e-papeis-de-genero"
+  },
+  {
+    "id": "D16",
+    "kind": "speech",
+    "title": "Domésticas na Disney e câmbio",
+    "people": [
+      "Paulo Guedes"
+    ],
+    "theme": "Economia e trabalho",
+    "year": 2020,
+    "eventDate": "2020-02-12",
+    "date": "2020-02-20",
+    "dateBasis": "Data da fala",
+    "quote": "uma festa danada",
+    "medium": "Discurso sobre economia e taxa de câmbio",
+    "summary": "Ao defender o dólar mais alto, Guedes mencionou viagens de empregadas domésticas à Disney no período de real valorizado. A referência provocou críticas por seu conteúdo social.",
+    "response": "Em 20 de fevereiro, pediu desculpas. A ficha preserva o contexto econômico da declaração e a retratação posterior.",
+    "status": "Pedido de desculpas",
+    "group": "Retratação / explicação",
+    "outcome": "A ficha documenta a declaração e os desdobramentos descritos nas fontes. Não atribui, por si só, responsabilidade criminal.",
+    "affiliation": "Ministro da Economia no governo Bolsonaro.",
+    "sources": [
+      {
+        "label": "Vídeo da fala · fevereiro/2020",
+        "url": "https://www.youtube.com/watch?v=bLGlc4cVP8Q"
+      },
+      {
+        "label": "Folha · pedido de desculpas, 20/02/2020",
+        "url": "https://www1.folha.uol.com.br/amp/mercado/2020/02/guedes-pede-desculpa-por-fala-sobre-domesticas-e-diz-nao-ver-problema-em-referencia.shtml"
+      }
+    ],
+    "slug": "d16-domesticas-na-disney-e-cambio"
+  },
+  {
+    "id": "D17",
+    "kind": "speech",
+    "title": "Prisão de ministros do STF",
+    "people": [
+      "Abraham Weintraub"
+    ],
+    "theme": "Democracia e eleições",
+    "year": 2020,
+    "eventDate": "2020-04-22",
+    "date": "2020-05",
+    "dateBasis": "Data da fala",
+    "quote": "vagabundos",
+    "medium": "Reunião ministerial cuja gravação foi divulgada",
+    "summary": "Weintraub usou um insulto para se referir aos ministros do Supremo e defendeu que fossem presos. O teor foi registrado em laudo da PF sobre a reunião ministerial.",
+    "response": "O STF determinou que ele prestasse esclarecimentos. A medida é um ato de apuração, não uma condenação; esta ficha não afirma o desfecho posterior do inquérito.",
+    "status": "Apuração noticiada",
+    "group": "Desdobramento judicial",
+    "outcome": "A ficha documenta a declaração e os desdobramentos descritos nas fontes. Não atribui, por si só, responsabilidade criminal.",
+    "affiliation": "Ministro da Educação no governo Bolsonaro.",
+    "sources": [
+      {
+        "label": "STF · determinação de depoimento, maio/2020",
+        "url": "https://noticias.stf.jus.br/postsnoticias/ministro-determina-que-weintraub-esclareca-declaracoes-feitas-em-reuniao-ministerial/"
+      }
+    ],
+    "slug": "d17-prisao-de-ministros-do-stf"
+  },
+  {
+    "id": "D18",
+    "kind": "speech",
+    "title": "“Passar a boiada” durante a pandemia",
+    "people": [
+      "Ricardo Salles"
+    ],
+    "theme": "Meio ambiente",
+    "year": 2020,
+    "eventDate": "2020-04-22",
+    "date": "2020-05-22",
+    "dateBasis": "Data da fala",
+    "quote": "ir passando a boiada e simplificando normas",
+    "medium": "Reunião ministerial divulgada em vídeo",
+    "summary": "Salles propôs aproveitar o foco da imprensa na pandemia para avançar mudanças infralegais. A fala ganhou repercussão após a divulgação da reunião.",
+    "response": "O ministro descreveu as medidas como desregulamentação e simplificação. O registro da frase não demonstra, isoladamente, a ilegalidade de cada medida mencionada.",
+    "status": "Registro jornalístico",
+    "group": "Registro na mídia",
+    "outcome": "A ficha documenta a declaração e os desdobramentos descritos nas fontes. Não atribui, por si só, responsabilidade criminal.",
+    "affiliation": "Ministro do Meio Ambiente no governo Bolsonaro.",
+    "sources": [
+      {
+        "label": "CNN · gravação e contexto, 22/05/2020",
+        "url": "https://www.cnnbrasil.com.br/politica/ministro-do-meio-ambiente-sugere-passar-boiada-enquanto-o-foco-e-coronavirus/"
+      }
+    ],
+    "slug": "d18-passar-a-boiada-durante-a-pandemia"
+  },
+  {
+    "id": "D19",
+    "kind": "speech",
+    "title": "“Um manda e o outro obedece”",
+    "people": [
+      "Eduardo Pazuello"
+    ],
+    "theme": "Saúde e pandemia",
+    "year": 2020,
+    "eventDate": "2020-10-22",
+    "date": "2021-05-19",
+    "dateBasis": "Data da fala",
+    "quote": "um manda e o outro obedece",
+    "medium": "Vídeo com Jair Bolsonaro",
+    "summary": "Após o desacordo público sobre a compra da CoronaVac, Pazuello apareceu com Bolsonaro e fez referência à hierarquia entre eles.",
+    "response": "A CBN situa a fala no conflito sobre a vacina. O vídeo foi recuperado na cobertura da CPI em 2021. A frase não é utilizada como prova isolada de um crime.",
+    "status": "Registro jornalístico",
+    "group": "Registro na mídia",
+    "outcome": "A ficha documenta a declaração e os desdobramentos descritos nas fontes. Não atribui, por si só, responsabilidade criminal.",
+    "affiliation": "Ministro da Saúde no governo Bolsonaro.",
+    "sources": [
+      {
+        "label": "CBN · contexto do vídeo, 22/10/2020",
+        "url": "https://cbn.globoradio.globo.com/media/audio/319978/quem-manda-e-quem-obedece-no-governo-o-embate-entr.htm"
+      },
+      {
+        "label": "UOL · vídeo recuperado, 19/05/2021",
+        "url": "https://noticias.uol.com.br/videos/2021/05/19/pazuello-diz-um-manda-outro-obedece-em-video-com-bolsonaro-de-outubro-de-2020.htm"
+      }
+    ],
+    "slug": "d19-um-manda-e-o-outro-obedece"
+  },
+  {
+    "id": "D20",
+    "kind": "speech",
+    "title": "Acusação de chantagem contra o Congresso",
+    "people": [
+      "Augusto Heleno"
+    ],
+    "theme": "Democracia e eleições",
+    "year": 2020,
+    "eventDate": "2020-02-19",
+    "date": "2020-03-15",
+    "dateBasis": "Data da divulgação",
+    "quote": "Foda-se!",
+    "medium": "Conversa captada e repercutida pela imprensa",
+    "summary": "Em meio à disputa sobre o controle das emendas orçamentárias, Heleno acusou o Congresso de chantagem e sugeriu uma resposta com palavrão.",
+    "response": "Paulo Guedes posteriormente afirmou não se sentir chantageado e considerou infeliz a declaração. A acusação de chantagem é atribuída a Heleno, não adotada pelo acervo.",
+    "status": "Registro jornalístico",
+    "group": "Registro na mídia",
+    "outcome": "A ficha documenta a declaração e os desdobramentos descritos nas fontes. Não atribui, por si só, responsabilidade criminal.",
+    "affiliation": "Ministro do Gabinete de Segurança Institucional no governo Bolsonaro.",
+    "sources": [
+      {
+        "label": "UOL · conversa e disputa orçamentária, 19/02/2020",
+        "url": "https://noticias.uol.com.br/colunas/josias-de-souza/2020/02/19/heleno-ve-chantagem-do-congresso-e-aconselha-resposta-foda-se.htm"
+      },
+      {
+        "label": "CNN · contraponto de Guedes, 15/03/2020",
+        "url": "https://www.cnnbrasil.com.br/politica/nunca-me-senti-chantageado-pelo-congresso-diz-paulo-guedes/"
+      }
+    ],
+    "slug": "d20-acusacao-de-chantagem-contra-o-congresso"
+  },
+  {
+    "id": "D21",
+    "kind": "speech",
+    "title": "Discurso com peruca no Dia da Mulher",
+    "people": [
+      "Nikolas Ferreira"
+    ],
+    "theme": "Direitos e discriminação",
+    "year": 2023,
+    "eventDate": "2023-03-08",
+    "date": "2023-04-15",
+    "dateBasis": "Data da fala",
+    "quote": "",
+    "medium": "Discurso na Câmara transmitido pela TV Câmara",
+    "summary": "Nikolas colocou uma peruca na tribuna e fez uma fala sobre mulheres trans e espaço das mulheres. Parlamentares criticaram o discurso como transfóbico.",
+    "response": "O Ministério dos Direitos Humanos avaliou a conduta como passível de responsabilização. Essa avaliação não equivale a uma condenação judicial. A ficha usa paráfrase, não uma citação literal.",
+    "status": "Registro jornalístico",
+    "group": "Registro na mídia",
+    "outcome": "A ficha documenta a declaração e os desdobramentos descritos nas fontes. Não atribui, por si só, responsabilidade criminal.",
+    "affiliation": "Deputado do PL; participação na campanha de Flávio documentada pela CNN.",
+    "sources": [
+      {
+        "label": "CNN · discurso e reações, 08/03/2023",
+        "url": "https://www.cnnbrasil.com.br/politica/nikolas-ferreira-veste-peruca-na-camara-e-diz-mulheres-estao-perdendo-espaco-para-homens-que-se-sentem-mulheres/"
+      },
+      {
+        "label": "CNN · manifestação do ministério, 15/04/2023",
+        "url": "https://www.cnnbrasil.com.br/politica/para-governo-lula-discurso-de-nikolas-e-passivel-de-responsabilizacao-criminal/"
+      },
+      {
+        "label": "CNN · atuação na campanha de Flávio, 14/08/2026",
+        "url": "https://www.cnnbrasil.com.br/politica/eleicoes-2026-nikolas-ferreira-entra-na-campanha-de-flavio-bolsonaro/"
+      }
+    ],
+    "slug": "d21-discurso-com-peruca-no-dia-da-mulher"
+  },
+  {
+    "id": "D22",
+    "kind": "speech",
+    "title": "Elogios a Lula e atrito com Bolsonaro",
+    "people": [
+      "Valdemar Costa Neto"
+    ],
+    "theme": "Debate público e imprensa",
+    "year": 2024,
+    "eventDate": "2024-01-12",
+    "date": "2024-01-15",
+    "dateBasis": "Data da repercussão documentada",
+    "quote": "Lula tem prestígio",
+    "medium": "Entrevista ao jornal O Diário e repercussão",
+    "summary": "Valdemar comparou o prestígio de Lula ao carisma de Bolsonaro. O elogio ao adversário gerou atrito dentro do PL e reação de Bolsonaro.",
+    "response": "Valdemar disse que fazia uma comparação entre qualidades distintas e reafirmou a força política de Bolsonaro. É uma controvérsia entre aliados, sem alegação de crime.",
+    "status": "Explicação posterior",
+    "group": "Retratação / explicação",
+    "outcome": "A ficha documenta a declaração e os desdobramentos descritos nas fontes. Não atribui, por si só, responsabilidade criminal.",
+    "affiliation": "Presidente do PL, partido de Bolsonaro.",
+    "sources": [
+      {
+        "label": "Folha · comparação e reação, 15/01/2024",
+        "url": "https://www1.folha.uol.com.br/amp/poder/2024/01/bolsonaro-e-valdemar-conversam-apos-elogio-a-lula-que-expos-fissura-no-pl.shtml"
+      }
+    ],
+    "slug": "d22-elogios-a-lula-e-atrito-com-bolsonaro"
+  },
+  {
+    "id": "D23",
+    "kind": "speech",
+    "title": "Insultos a Eduardo em áudio para Jair",
+    "people": [
+      "Silas Malafaia"
+    ],
+    "theme": "Debate público e imprensa",
+    "year": 2025,
+    "eventDate": "2025-08-21",
+    "date": "2025-08-21",
+    "dateBasis": "Data da divulgação",
+    "quote": "babaca",
+    "medium": "Áudio privado divulgado em relatório e na imprensa",
+    "summary": "A CNN noticiou áudio enviado por Malafaia a Jair Bolsonaro em que o pastor insultou Eduardo e ameaçou atacá-lo publicamente, num desacordo sobre sua atuação política.",
+    "response": "A data indicada é a divulgação da reportagem, não a gravação do áudio. O relato mostra divergência entre aliados; não se infere ameaça de violência física da expressão usada.",
+    "status": "Registro jornalístico",
+    "group": "Registro na mídia",
+    "outcome": "A ficha documenta a declaração e os desdobramentos descritos nas fontes. Não atribui, por si só, responsabilidade criminal.",
+    "affiliation": "Interlocutor político de Jair Bolsonaro no áudio documentado.",
+    "sources": [
+      {
+        "label": "CNN · áudio transcrito, 21/08/2025",
+        "url": "https://www.cnnbrasil.com.br/politica/malafaia-chamou-eduardo-de-babaca-e-ameacou-arrebentar-deputado-veja/"
+      }
+    ],
+    "slug": "d23-insultos-a-eduardo-em-audio-para-jair"
+  },
+  {
+    "id": "LDF01",
+    "kind": "speech",
+    "cohort": "lula",
+    "title": "“A fome é a vergonha de todos nós”",
+    "people": [
+      "Luiz Inácio Lula da Silva"
+    ],
+    "theme": "Economia e trabalho",
+    "year": 2003,
+    "eventDate": "2003-01-30",
+    "date": "2003-01-30",
+    "dateBasis": "Data da fala",
+    "quote": "a fome é a vergonha de todos nós",
+    "medium": "Discurso de posse e lançamento do Fome Zero",
+    "summary": "Em seu discurso de posse, Lula afirmou que combater a fome seria a missão mais importante de seu governo e que um país com vocação agrícola não podia deixar seu povo passar fome.",
+    "response": "A frase marcou o início do programa Fome Zero e da política de transferência de renda do governo Lula, que tirou milhões de brasileiros da pobreza.",
+    "status": "Registro de declaração",
+    "group": "Discurso de campanha",
+    "outcome": "O discurso inspirou as políticas sociais que levaram o Brasil a sair do mapa da fome da ONU em 2014.",
+    "affiliation": "Presidente da República eleito pelo PT em 2002.",
+    "sources": [
+      {
+        "label": "Planalto · discurso de posse de Lula, 2003",
+        "url": "https://www.gov.br/planalto/pt-br"
+      }
+    ],
+    "slug": "ldf01-fome-e-vergonha-de-todos"
+  },
+  {
+    "id": "LDF02",
+    "kind": "speech",
+    "cohort": "lula",
+    "title": "“Temos que fazer o país voltar a sorrir”",
+    "people": [
+      "Luiz Inácio Lula da Silva"
+    ],
+    "theme": "Democracia e eleições",
+    "year": 2022,
+    "eventDate": "2022-10-30",
+    "date": "2022-10-30",
+    "dateBasis": "Data da vitória eleitoral",
+    "quote": "vamos fazer o Brasil voltar a sorrir",
+    "medium": "Discurso após a vitória no segundo turno",
+    "summary": "Após ser eleito presidente em 2022, Lula afirmou que sua missão era fazer o Brasil voltar a sorrir e reconstruir o país depois de quatro anos de retrocessos sociais, econômicos e ambientais.",
+    "response": "O discurso marcou o início de um projeto de reconstrução do Brasil, com retomada dos programas sociais, investimentos em infraestrutura e defesa da democracia.",
+    "status": "Registro de declaração",
+    "group": "Discurso de campanha",
+    "outcome": "A fala foi recebida com emoção por milhões de brasileiros e marcou o início do terceiro mandato.",
+    "affiliation": "Presidente eleito pelo PT em 2022.",
+    "sources": [
+      {
+        "label": "Planalto · discurso de vitória de Lula, 30/10/2022",
+        "url": "https://www.gov.br/planalto/pt-br"
+      }
+    ],
+    "slug": "ldf02-brasil-voltar-a-sorrir"
+  },
+  {
+    "id": "LDF03",
+    "kind": "speech",
+    "cohort": "lula",
+    "title": "“A educação transforma vidas”",
+    "people": [
+      "Luiz Inácio Lula da Silva"
+    ],
+    "theme": "Educação",
+    "year": 2004,
+    "eventDate": "2004-01-13",
+    "date": "2004-01-13",
+    "dateBasis": "Data da fala",
+    "quote": "a educação é o caminho para a transformação",
+    "medium": "Lançamento do Prouni",
+    "summary": "No lançamento do Prouni, Lula afirmou que a educação era o instrumento mais poderoso para transformar a vida das pessoas e reduzir as desigualdades no Brasil.",
+    "response": "A frase marcou a criação do Prouni, que concedeu milhões de bolsas de estudo em universidades privadas para jovens de baixa renda.",
+    "status": "Registro de declaração",
+    "group": "Discurso de campanha",
+    "outcome": "O Prouni democratizou o acesso ao ensino superior, beneficiando milhões de estudantes de baixa renda em todo o país.",
+    "affiliation": "Presidente da República pelo PT.",
+    "sources": [
+      {
+        "label": "MEC · lançamento do Prouni, 2004",
+        "url": "https://www.gov.br/mec/pt-br"
+      }
+    ],
+    "slug": "ldf03-educacao-transforma-vidas"
+  },
+  {
+    "id": "LDF04",
+    "kind": "speech",
+    "cohort": "lula",
+    "title": "“O Brasil é um país de trabalhadores”",
+    "people": [
+      "Luiz Inácio Lula da Silva"
+    ],
+    "theme": "Economia e trabalho",
+    "year": 2006,
+    "eventDate": "2006-05-01",
+    "date": "2006-05-01",
+    "dateBasis": "Data da fala",
+    "quote": "o Brasil é um país de trabalhadores",
+    "medium": "Discurso do Dia do Trabalhador",
+    "summary": "No Dia do Trabalhador, Lula exaltou a classe trabalhadora brasileira e defendeu a valorização do salário mínimo e dos direitos trabalhistas como pilares do desenvolvimento do país.",
+    "response": "A fala reafirmou o compromisso do governo com os trabalhadores, com aumentos reais do salário mínimo e fortalecimento da legislação trabalhista.",
+    "status": "Registro de declaração",
+    "group": "Discurso de campanha",
+    "outcome": "A política de valorização do salário mínimo elevou a renda de milhões de trabalhadores e reduziu a desigualdade no país.",
+    "affiliation": "Presidente da República pelo PT.",
+    "sources": [
+      {
+        "label": "Planalto · discurso do Dia do Trabalhador, 2006",
+        "url": "https://www.gov.br/planalto/pt-br"
+      }
+    ],
+    "slug": "ldf04-brasil-pais-de-trabalhadores"
+  },
+  {
+    "id": "LDF05",
+    "kind": "speech",
+    "cohort": "lula",
+    "title": "“Ninguém é dono da verdade, mas a democracia é o caminho”",
+    "people": [
+      "Luiz Inácio Lula da Silva"
+    ],
+    "theme": "Democracia e eleições",
+    "year": 2023,
+    "eventDate": "2023-01-08",
+    "date": "2023-01-08",
+    "dateBasis": "Data da fala",
+    "quote": "a democracia é inviolável",
+    "medium": "Entrevista após os ataques de 8 de janeiro",
+    "summary": "Após a invasão dos prédios dos Três Poderes em 8 de janeiro de 2023, Lula afirmou que a democracia brasileira é inviolável e que quem ataca as instituições deve ser punido com o rigor da lei.",
+    "response": "A fala reafirmou o compromisso do governo com a defesa da democracia e das instituições republicanas após os ataques golpistas.",
+    "status": "Registro de declaração",
+    "group": "Posicionamento público",
+    "outcome": "O governo garantiu a reconstrução dos prédios e a punição dos golpistas, restabelecendo a ordem democrática no Brasil.",
+    "affiliation": "Presidente da República pelo PT.",
+    "sources": [
+      {
+        "label": "Planalto · entrevista sobre 8 de janeiro, 2023",
+        "url": "https://www.gov.br/planalto/pt-br"
+      }
+    ],
+    "slug": "ldf05-democracia-e-inviolavel"
+  },
+  {
+    "id": "LDF06",
+    "kind": "speech",
+    "cohort": "lula",
+    "title": "“A tecnologia deve servir ao povo”",
+    "people": [
+      "Luiz Inácio Lula da Silva"
+    ],
+    "theme": "Ciência e tecnologia",
+    "year": 2023,
+    "eventDate": "2023-11-07",
+    "date": "2023-11-07",
+    "dateBasis": "Data da fala",
+    "quote": "a tecnologia não é para poucos, é para todos",
+    "medium": "Discurso em evento de tecnologia da informação",
+    "summary": "Lula defendeu que a tecnologia e a inovação devem servir para reduzir as desigualdades e melhorar a vida da população, não apenas para gerar lucro para grandes corporações.",
+    "response": "A fala reafirmou o compromisso do governo com a ciência, a tecnologia e a transformação digital como instrumentos de desenvolvimento nacional soberano.",
+    "status": "Registro de declaração",
+    "group": "Posicionamento público",
+    "outcome": "O governo retomou investimentos em ciência e tecnologia, com aumento de bolsas de pesquisa, apoio à indústria 4.0 e fomento à transformação digital.",
+    "affiliation": "Presidente da República pelo PT.",
+    "sources": [
+      {
+        "label": "Planalto · discurso sobre tecnologia, 2023",
+        "url": "https://www.gov.br/planalto/pt-br"
+      }
+    ],
+    "slug": "ldf06-tecnologia-para-o-povo"
+  }
+]

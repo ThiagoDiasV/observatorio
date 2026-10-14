@@ -1,0 +1,19 @@
+[Unit]
+Description=Painel privado de revisão editorial do Observatório
+After=network.target
+
+[Service]
+Type=simple
+User=observatorio
+Group=observatorio
+WorkingDirectory=/opt/observatorio
+ExecStart=/usr/bin/python3 /opt/observatorio/automation/review_server.py --root /opt/observatorio --port 8787
+Restart=on-failure
+RestartSec=5
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ReadWritePaths=/opt/observatorio/automation
+
+[Install]
+WantedBy=multi-user.target

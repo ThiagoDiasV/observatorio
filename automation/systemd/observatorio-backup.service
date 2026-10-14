@@ -1,0 +1,15 @@
+[Unit]
+Description=Backup diário da fila editorial do Observatório
+
+[Service]
+Type=oneshot
+User=observatorio
+Group=observatorio
+Environment=OBSERVATORIO_ROOT=/opt/observatorio
+Environment=OBSERVATORIO_BACKUP_DIR=/var/backups/observatorio
+ExecStart=/opt/observatorio/automation/backup.sh
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ReadWritePaths=/var/backups/observatorio
+ReadOnlyPaths=/opt/observatorio/automation

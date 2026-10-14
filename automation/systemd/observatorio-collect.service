@@ -1,0 +1,16 @@
+[Unit]
+Description=Coleta diária de candidatos editoriais do Observatório
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=observatorio
+Group=observatorio
+Environment=OBSERVATORIO_ROOT=/opt/observatorio
+Environment=OBSERVATORIO_LOG_DIR=/var/log/observatorio
+ExecStart=/opt/observatorio/automation/run_daily.sh
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ReadWritePaths=/opt/observatorio/automation /var/log/observatorio

@@ -1,0 +1,12 @@
+(() => {
+'use strict';
+if(document.querySelector('.site-counter'))return;
+const bar=document.createElement('aside');bar.className='site-counter';bar.setAttribute('aria-label','Estatísticas de visitação');
+bar.innerHTML='<div><strong data-count="active">—</strong><span>Online agora</span></div><div><strong data-count="visits">—</strong><span>Visitas acumuladas</span></div><div><strong data-count="peak">—</strong><span>Pico simultâneo</span></div><details><summary>Como contamos</summary><p>Online: sessões com atividade nos últimos 60 segundos, atualizadas a cada 20 segundos. Total: sessões registradas pelo contador desde 09/10/2026; não representa pessoas únicas nem visitas anteriores à instalação. Pico: maior número de sessões ativas observado desde 13/10/2026. Abas do mesmo navegador compartilham uma sessão; após 30 minutos sem atividade, inicia-se outra. Não são usuários autenticados. Não guardamos IP, nome ou localização neste contador. Bloqueadores e navegadores sem JavaScript podem não ser contados.</p></details>';
+const css=document.createElement('link');css.rel='stylesheet';css.href='/site-counter.css?v=20261013';document.head.append(css);document.body.prepend(bar);
+const alignMenu=()=>document.documentElement.style.setProperty('--counter-height',bar.getBoundingClientRect().height+'px');new ResizeObserver(alignMenu).observe(bar);alignMenu();
+const key='observatorio-visitor-v2';let fallback=crypto.randomUUID();let pending=false;
+function session(){const now=Date.now();try{let value=JSON.parse(localStorage.getItem(key)||'null');if(!value||now-value.last>1800000||!value.token)value={token:crypto.randomUUID()};value.last=now;localStorage.setItem(key,JSON.stringify(value));return value.token;}catch(_){return fallback;}}
+async function update(){if(pending)return;pending=true;try{const r=await fetch('/api/site-counter',{method:'POST',cache:'no-store',credentials:'same-origin',headers:{'Content-Type':'application/json'},body:JSON.stringify({session:session()})});if(!r.ok)throw Error('counter');const d=await r.json();for(const field of ['active','visits','peak']){if(!Number.isInteger(d[field])||d[field]<0)throw Error('invalid');bar.querySelector('[data-count="'+field+'"]').textContent=d[field].toLocaleString('pt-BR');}bar.title='Atualizado às '+new Date(d.updated_at*1000).toLocaleTimeString('pt-BR');}catch(_){for(const el of bar.querySelectorAll('[data-count]'))el.textContent='Indisponível';}finally{pending=false;}}
+update();setInterval(update,20000);document.addEventListener('visibilitychange',update);
+})();

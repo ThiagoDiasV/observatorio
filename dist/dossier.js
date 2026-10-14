@@ -1,0 +1,6 @@
+'use strict';
+const copyButton=document.getElementById('copy-link');
+copyButton.addEventListener('click',async()=>{const url=location.href.split('#')[0];try{await navigator.clipboard.writeText(url);document.getElementById('share-status').textContent='Link copiado.';}catch{const input=document.getElementById('share-fallback');input.hidden=false;input.value=url;input.focus();input.select();document.getElementById('share-status').textContent='Selecione e copie o endereço acima.';}});
+document.getElementById('print-page').addEventListener('click',()=>window.print());
+const filter=document.getElementById('event-year');if(filter)filter.addEventListener('change',()=>{let count=0;document.querySelectorAll('[data-event-year]').forEach(el=>{el.hidden=!!filter.value&&el.dataset.eventYear!==filter.value;if(!el.hidden)count++;});document.getElementById('event-count').textContent=count+' marcos em exibição.';});
+document.querySelectorAll('[data-source-date]').forEach(el=>{const d=el.dataset.sourceDate;const age=Math.floor((Date.now()-Date.parse(d.length===7?d+'-01':d))/86400000);if(age>90)el.textContent='O último marco tem mais de 90 dias. Consulte as fontes para possíveis mudanças posteriores.';});

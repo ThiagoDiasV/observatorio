@@ -1,0 +1,16 @@
+[Unit]
+Description=Verificação diária do Observatório
+After=network-online.target observatorio-collect.service
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=observatorio
+Group=observatorio
+ExecStart=/usr/bin/python3 /opt/observatorio/automation/healthcheck.py --root /opt/observatorio
+StandardOutput=append:/var/log/observatorio/health.log
+StandardError=append:/var/log/observatorio/health.log
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ReadWritePaths=/opt/observatorio/automation /var/log/observatorio
