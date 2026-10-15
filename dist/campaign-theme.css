@@ -188,7 +188,7 @@ body{background:var(--bg);color:var(--text);font-family:var(--font)}
 
 /* metrics become sheared stat cubes */
 .metrics{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;background:none!important;border:0!important;border-radius:0;margin:48px 0 54px;overflow:visible}
-.metrics>div{position:relative;transform:skewY(var(--shear));padding:18px 24px;margin-left:7px;color:#fff;border:0!important;background:none;border-radius:0;display:flex;flex-direction:column;justify-content:center;min-height:112px}
+.metrics>div{min-width:0;position:relative;transform:skewY(var(--shear));padding:18px 24px;margin-left:7px;color:#fff;border:0!important;background:none;border-radius:0;display:flex;flex-direction:column;justify-content:center;min-height:112px}
 .metrics>div::before{content:"";position:absolute;inset:6px -6px -6px 6px;z-index:0}
 .metrics>div>*{position:relative;z-index:1;display:block;transform:skewY(calc(-1 * var(--shear)))}
 .metrics>div:nth-child(1){background:var(--red)}.metrics>div:nth-child(1)::before{background:var(--red-dark)}
@@ -266,3 +266,37 @@ html{overflow-x:clip}
 
 /* fourth cube number matches the others (style.css shrank it to 26px for the old "Geral" word) */
 .metrics .metric-accent strong{font-size:54px}
+
+/* ===================================================================
+   MOBILE-FIRST: hamburger menu + responsive polish ================= */
+.vv-burger{display:none}
+
+@media(max-width:860px){
+  .sidebar{gap:10px 14px;padding:12px 18px}
+  /* hamburger button (>=44px touch target) */
+  .vv-burger{display:inline-flex;flex-direction:column;justify-content:center;align-items:center;gap:5px;margin-left:auto;width:52px;height:46px;background:var(--red);border:0;border-radius:9px;box-shadow:3px 4px 0 var(--red-dark);cursor:pointer;padding:0}
+  .vv-burger span{display:block;width:24px;height:3px;background:#fff;border-radius:2px}
+  .vv-burger[aria-expanded="true"]{background:var(--red-dark)}
+  /* nav folds away; opens as a full-width red panel, white text on red */
+  .sidebar nav{display:none;order:3;width:100%;flex-direction:column;gap:0;background:var(--red);border-radius:12px;margin-top:2px;padding:6px;box-shadow:0 12px 28px rgba(0,0,0,.2)}
+  .sidebar nav.vv-open{display:flex}
+  .sidebar .nav{color:#fff!important;width:100%;min-height:50px;display:flex;align-items:center;padding:13px 16px;font-size:16px;border-radius:8px;border:0;border-bottom:1px solid rgba(255,255,255,.16);white-space:normal}
+  .sidebar .nav:last-child{border-bottom:0}
+  .sidebar .nav span{display:none}
+  .sidebar .nav:hover,.sidebar .nav:focus-visible{background:rgba(255,255,255,.14);border-bottom-color:transparent}
+  .sidebar .nav.active{color:#fff!important;background:var(--red-dark);border-bottom-color:transparent}
+  /* stack the two-up panels and the hero asides */
+  .charts{grid-template-columns:1fr}
+  .heading{flex-direction:column;align-items:flex-start;gap:10px}
+  .edition-badge{text-align:left}
+}
+@media(max-width:560px){
+  .metrics{grid-template-columns:1fr}
+  .vv-strip{padding:9px 18px;gap:6px 14px}
+}
+
+/* mobile overflow guards: single-column cubes, no horizontal scroll */
+html,body{overflow-x:clip;max-width:100%}
+@media(max-width:560px){
+  body .metrics{grid-template-columns:1fr!important}
+}

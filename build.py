@@ -57,7 +57,7 @@ def build():
         # Campaign identity layer (palette, type, flag details) loaded last so it wins.
         if '/campaign-theme.css' not in content:
             content = content.replace('</head>', fonts + '<link rel="stylesheet" href="/campaign-theme.css?v=20261014"></head>')
-        safe_write(page, content.replace('</body>', '<script defer src="/site-counter.js?v=20261013align"></script></body>'))
+        safe_write(page, content.replace('</body>', '<script defer src="/campaign.js?v=20261015"></script><script defer src="/site-counter.js?v=20261013align"></script></body>'))
     print(f'Site gerado: {len(records)} episódios e {len(statements)} falas documentadas.')
 
 if __name__ == '__main__':
